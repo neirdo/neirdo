@@ -1,16 +1,13 @@
-## Hi there 👋
+## About Me
 
-<!--
-**neirdo/neirdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🦅 Exploring knowledge beyond code — from math and physics to philosophy.  
+➡️ Projects are moving here for better organization.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👤 **Morpheus**  
+Guest-to-Registered User Migration Package
+
+⚙️ **Funclect**  
+Utility Library Inspired by Laravel Collections
+
